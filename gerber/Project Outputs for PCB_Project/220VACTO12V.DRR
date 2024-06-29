@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 220VACTO12V.PcbDoc   28.06.2024  16:32:20
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 220VACTO12V-RoundHoles.TXT
+ASCII SlotHoles File : 220VACTO12V-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      14mil (0.35mm)                                            Round             1         PTH        0.00inch (0.00mm)
+T2      39mil (1mm)                                               Round             6         PTH        3.26inch (82.73mm)
+T3      39mil (1mm)                                               Slot              1         PTH        0.08inch (2.00mm)
+T4      47mil (1.2mm)                                             Slot              2         PTH        0.60inch (15.26mm)
+T5      69mil (1.75mm)                                            Round             2         PTH        0.20inch (5.08mm)
+T6      83mil (2.1mm)                                             Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              13
+
+Total Processing Time (hh:mm:ss) : 00:00:00

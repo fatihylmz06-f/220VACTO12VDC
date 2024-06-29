@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Fatih\Desktop\donaným tasarým\PCB_Project\220VACTO12V.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=220vacto12v-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=220vacto12v-slotholes.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB_Project.PrjPcb]
+   Generated File[220VACTO12V.GTO]
+   Generated File[220VACTO12V.GTP]
+   Generated File[220VACTO12V.GTS]
+   Generated File[220VACTO12V.GTL]
+   Generated File[220VACTO12V.GBL]
+   Generated File[220VACTO12V.GBS]
+   Generated File[220VACTO12V.GBP]
+   Generated File[220VACTO12V.GBO]
+   Generated File[220VACTO12V.GKO]
+   Generated File[220VACTO12V.GM]
+   Generated File[220VACTO12V.EXTREP]
+   Generated File[220VACTO12V.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 16:34:07 On 28.06.2024
